@@ -1,9 +1,7 @@
 /*
- * project:     miniweb
- * author:      Oscar Sanchez (oms1005@gmail.com)
- * HTTP Server
- * WORKS ON BROWSERS TOO!
- * Inspired by IBM's nweb
+ Este código ha modificado a partir del código desarrollado por Oscar Sanchez en este enlace:
+ https://github.com/labcoder/simple-webserver
+ 
 */
 
 #include <stdio.h>
